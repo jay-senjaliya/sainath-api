@@ -1,0 +1,145 @@
+{
+    "name": "Kashmir",
+    "packageType": "deluxe",
+    "code": "SH05JK01",
+    "startingPrice": 9999,
+    "image": [],
+    "hotels": [
+        {
+            "nights": 2,
+            "destination": "Srinagar",
+            "name": "Six Season",
+            "roomType": "Deluxe Room",
+            "mealPlan": "Map",
+            "similarHotels": [
+                "Hotel Shfef",
+                "Valley Orchid",
+                "Hotel Villsata"
+            ]
+        },
+        {
+            "nights": 1,
+            "destination": "Pahalgam",
+            "name": "Hotel Hamdard Resort",
+            "roomType": "Deluxe Room",
+            "mealPlan": "Map",
+            "similarHotels": [
+                "Hotel Royalton",
+                "Hotel Sheshnag"
+            ]
+        },
+        {
+            "nights": 1,
+            "destination": "Srinagar HB",
+            "name": "Morningstar HB",
+            "roomType": "Deluxe Room",
+            "mealPlan": "Map",
+            "similarHotels": [
+                "New Alexandra HB"
+            ]
+        }
+    ],
+    "itinerary": [
+        {
+            "day": 1,
+            "heading": "Arrive at Srinagar Airport. Local Sightseeing of Srinagar.",
+            "description": "Meet our representative at Srinagar airport, transfer to hotel / Houseboat. In the evening, shikara ride in world famous dal lake. Overnight stay at Srinagar. For local sightseeing of Srinagar City. Visit: - Mughal gardens: - Chesma Shahi (Mughal Spring), Nishat (The Garden of Bliss), Shalimar (The Abode of Love)."
+        },
+        {
+            "day": 2,
+            "heading": "Srinagar - Full Day Trip to Gulmarg",
+            "description": "After breakfast, this morning, Proceed to Gulmarg. In Gulmarg and take a ride in the world's highest cable car \"Gondola\" or enjoy your day by playing golf in the world’s highest golf course. Overnight stay at Srinagar. ( Gondola & Pony ride - Not Included ) Note : In Winter's , Snow Jeep transfers from Tangmarg to Gulmarg to Tangmarg: Applicable in Nov & Dec Month (Cost Extra) No Cars are allowed to move inside Gulmarg area, due to issue of horse owner’s association."
+        },
+        {
+            "day": 3,
+            "heading": "From Srinagar to Pahalgam (3 hrs approx)",
+            "description": "After breakfast this morning, we check out from Srinagar , as we drive you to Pahalgam the Valley of Shepherds via Srinagar. Drive through saffron fields .Drive through the pine forest and along the Lidder River. Arrive Pahalgam and transfer to your hotel. Rest of the day is at leisure. Overnight stay at a hotel in Pahalgam. Note : In Pahalgam : Horse Riding, Chandanwari ,Betaab Valley, Aru Valley and Baisaran Valley ( Cost Extra )"
+        },
+        {
+            "day": 4,
+            "heading": "Drive from Pahalgam to Srinagar.( Stay in HouseBoat)",
+            "description": "After breakfast drive towards Srinagar & local sightseeing of Srinagar City. Visit: - Mughal gardens: - Chesma Shahi (Mughal Spring), Nishat (The Garden of Bliss), Shalimar (The Abode of Love). Overnight stay at Srinagar"
+        },
+        {
+            "day": 5,
+            "heading": "Drop to Srinagar Airport.",
+            "description": "After breakfast, this morning, check out from your houseboat and get transferred to Srinagar Airport for your onward journey. Tour Ends."
+        }
+    ],
+    "price": [
+        {
+            "heading": "Packages Cost",
+            "value": "Packages Cost PP ( Ex Srinagar )"
+        },
+        {
+            "heading": "02 Pax",
+            "value": "14999/-"
+        },
+        {
+            "heading": "04 Pax",
+            "value": "11999/-"
+        },
+        {
+            "heading": "06 Pax",
+            "value": "10999/-"
+        },
+        {
+            "heading": "12 Pax",
+            "value": "9999/-"
+        },
+        {
+            "heading": "Extra Bed",
+            "value": "6499/-"
+        },
+        {
+            "heading": "Child Without Bed",
+            "value": "5499/-"
+        },
+        {
+            "heading": "Booking & Validity",
+            "value": "01-08-23 To 19-12-23 | 10-01-24 To 31-03-24"
+        }
+    ],
+    "inclusion": [
+        "04 Nights Accommodation At Hotel",
+        "Breakfast at Respective Hotels",
+        "Nac Vehicle On Point To Point Basis",
+        "Full Day Excursion To Gulmarg or Sonmarg",
+        "1 Hour Shikara Ride Complimentary"
+    ],
+    "exclusion": [
+        "Entrance fees to Mughal Garden & Any Other Gardens.",
+        "Gondola Rides In Gulmarg & Pony/ Horse Rides.",
+        "Local Vehicles In Pahalgam for Aru Valley – Betaab Valley – Chandanwari"
+    ],
+    "importantNotes": [
+        "Gst On Final Bill",
+        "Extra Bed / Child With Bed Are Same Price",
+        "Below 05 Years Child Complimentary",
+        "Above 05 Years Chargeable Without Bed",
+        "Group & Mice Booking Also Available"
+    ],
+    "additional": [
+        "If Not Booked Houseboat : Boat Per Hrs : 1000 ( Max 02 Pax )",
+        "Abc At Pahalgam : Union Per Vehicle Cost : 3000 To 5000 ( Max 06 Pax )",
+        "Gulmarg Union Per Vehicle Cost Pay Directly | Gondola Phase I Per Person: 1000 | Gondola Phase II Per Person: 1200",
+        "Extra Charge For Ac In Vehicle : Sedan & Innova ( 700 Per Day ) & Tempo Traveller ( 1000 Per Day )"
+    ],
+    "paymentTerm": [
+        "All the bookings Confirmation after 50% Advance Payment.",
+        "Once the booking is Confirmed, Vouchers will be issued with suggested Trip Detail & hotel reservation, which may change with prior notice to the client.",
+        "Once you receive the Hotel confirmation from our staff, the client can reconfirm with the hotel for their reservation.",
+        "We would Require 100% payment Before Travelling.",
+        "For Cash Deposit In Current Account Pan Card Required"
+    ],
+    "cancellationPolicy": [
+        "If cancelled from 0 to 10 days before the check-in date 100% booking amount will be charged.",
+        "If cancelled from 11 to 20 days before the check-in date 70% booking amount will be charged.",
+        "If cancelled from 21 to 30 days before the check-in date 30% booking amount will be charged.",
+        "No refunds for unused nights or early check-outs or Any Kind Of Services.",
+        "All refunds are processed by the method of payment used in the initial transaction, except in the case of cash payments where the refund is processed through Cheque or online transfer.",
+        "Mid-tour Cancellation – Yes you can cancel but the amount would be nonrefundable."
+    ],
+    "createdAt": "2023-09-02T13:35:44.458Z",
+    "__v": 0
+}
